@@ -36,8 +36,7 @@ Bem-vindo à minha rede!
 
 ## 📫 Conecte-se comigo
 
-- 💼 [LinkedIn](https://wwww.linkedin.com/in/
-lauradiastavares)
+- 💼 [LinkedIn](https://wwww.linkedin.com/in/lauradiastavares)
 - 💻 [Portfólio](https://seuportfolio.com)
 - 📧 Email: seu@email.com
 
