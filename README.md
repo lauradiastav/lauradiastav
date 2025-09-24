@@ -2,9 +2,11 @@
 # Olá, eu sou a Laura :)
 Bem-vindo à minha rede!
 
-🎯 **Developer em Pega e Java**  
-🗃️ Experiência com **SQL**  
-🐍 Frequentemente estudando **Python**, **IA**, **Pandas**, **HTML & CSS**
+🎯 **Developer 
+- Pega
+- Java**  
+🗃️ Experiência com **SQL**  e **Criação de banco de dados**
+🐍 Estudando **Python**, **IA**, **Pandas**, **HTML & CSS**
 
 ---
 
@@ -25,17 +27,18 @@ Bem-vindo à minha rede!
 
 ## 📚 Estudando atualmente
 
-- 🔍 Inteligência Artificial aplicada a negócios
+- 🔍 Inteligência Artificial no Pega
 - 🐼 Manipulação de dados com Pandas
 - 🧠 Fundamentos de Machine Learning
 - 🌐 HTML & CSS para interfaces modernas
-- 🐍 Python para automações e análise de dados
+- 🐍 Python
 
 ---
 
 ## 📫 Conecte-se comigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- 💼 [LinkedIn](https://wwww.linkedin.com/in/
+lauradiastavares)
 - 💻 [Portfólio](https://seuportfolio.com)
 - 📧 Email: seu@email.com
 
