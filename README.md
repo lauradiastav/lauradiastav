@@ -2,9 +2,9 @@
 # Olá, eu sou a Laura :)
 Bem-vindo à minha rede!
 
-🎯 **Developer 
-- Pega
-- Java**  
+🎯 **Developer**
+- **Pega**
+- **Java**  
 🗃️ Experiência com **SQL**  e **Criação de banco de dados**
 🐍 Estudando **Python**, **IA**, **Pandas**, **HTML & CSS**
 
@@ -29,7 +29,6 @@ Bem-vindo à minha rede!
 
 - 🔍 Inteligência Artificial no Pega
 - 🐼 Manipulação de dados com Pandas
-- 🧠 Fundamentos de Machine Learning
 - 🌐 HTML & CSS para interfaces modernas
 - 🐍 Python
 
