@@ -13,7 +13,6 @@ Bem-vindo à minha rede!
 ## 🛠️ Tecnologias que uso
 
 <div align="center">
-  <img src="https://dn9tckvz2rpxv.cloudfront.net/pega.jobs/img2/logo.jpg" alt="Pega />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
