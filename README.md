@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Laura :)
+# Oii, eu sou a Laura :)
 Bem-vindo à minha rede!
 
 🎯 **Developer**
